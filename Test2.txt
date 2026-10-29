@@ -1,0 +1,2 @@
+Testing Git - My second file.
+This is my initial trial setup.
